@@ -27,7 +27,8 @@ The goal is to generate **actionable insights** and recommend **safety measures*
 ## 🛠️ Tech Stack
 - **Python** (pandas, numpy, matplotlib, seaborn)  
 - **Jupyter Notebook / Google Colab**  
-- **GitHub** (Version Control & Repository Hosting)  
+- **GitHub** (Version Control & Repository Hosting)
+- **Tableau** (Prepared the same using tableau also) 
 
 ---
 
