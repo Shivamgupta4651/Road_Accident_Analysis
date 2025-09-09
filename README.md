@@ -59,6 +59,7 @@ The goal is to generate **actionable insights** and recommend **safety measures*
 
 ![Dashboard Preview](https://drive.google.com/uc?export=view&id=1AJRkH0ISGJ7Su08MJTu_6ZQxqD-dE4nl)
 ![Preview Image](https://drive.google.com/uc?export=view&id=1YsQrBFXtzgd5ai3Ta9TIW9OyPMAS33ij)
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1X1G5odhWQIGO3ZUwIG7uwexVGAsm55gp)
 
 
 
